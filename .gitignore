@@ -1,0 +1,9 @@
+*.xml
+*.obj
+*.mac
+*.bat
+*.exe
+*.pdb
+*.log
+*.err
+*.sys

@@ -1,0 +1,8 @@
+SOURCES=files.c \
+ioctls.c \
+main.c \
+mount.c \
+queries.c
+TARGETNAME=VirtualDisk
+TARGETTYPE=DRIVER
+TARGETPATH=.
